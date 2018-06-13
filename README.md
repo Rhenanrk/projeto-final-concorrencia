@@ -1,1 +1,4 @@
-# projeto final concorrencia
+# Projeto Final Concorrencia
+## Grupo:
+  * Breno Gomes
+  * Rhenan Konrad
