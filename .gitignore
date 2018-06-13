@@ -23,3 +23,10 @@
 hs_err_pid*
 /JogoDaVelha/nbproject/private/
 /JogoDaVelha/build/
+
+nbproject/private/
+build/
+nbbuild/
+dist/
+nbdist/
+.nb-gradle/
