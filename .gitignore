@@ -24,9 +24,11 @@ hs_err_pid*
 /JogoDaVelha/nbproject/private/
 /JogoDaVelha/build/
 
+# NetBeans specific
 nbproject/private/
 build/
 nbbuild/
 dist/
 nbdist/
-.nb-gradle/
+nbactions.xml
+nb-configuration.xml
